@@ -44,6 +44,7 @@ while (exibirMenu)
             break;
 
         case "4":
+            
             exibirMenu = false;
             break;
 
@@ -55,5 +56,5 @@ while (exibirMenu)
     Console.WriteLine("Pressione uma tecla para continuar");
     Console.ReadLine();
 }
-
+Console.WriteLine("Obrigado por usar DIO.Estacionamento!");
 Console.WriteLine("O programa se encerrou");
